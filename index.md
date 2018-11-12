@@ -18,3 +18,5 @@ The _quick_ __brown fox__ jumps over the lazy dog.
 ## My projects
 
 [Bouncing Squares With Space Bar](Bouncing_Squares_with_Space_Bar/index.md)
+
+[Final Maze Game](Final_Maze_Game/index.md)
