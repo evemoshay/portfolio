@@ -21,4 +21,4 @@ The _quick_ __brown fox__ jumps over the lazy dog.
 
 [Final Maze Game](Final_Maze_Game/index.md)
 
-[Kaleidoscope](Kaleidoscope/Kaleidoscope.md)
+[Kaleidoscope](Kaleidoscope/index.md)
