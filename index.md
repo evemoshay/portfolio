@@ -24,3 +24,5 @@ The _quick_ __brown fox__ jumps over the lazy dog.
 [Kaleidoscope](Kaleidoscope/index.md)
 
 [Four Lines Noise Example](Four_Lines_Noise_Example/index.md)
+
+[Rainbow Fade](Rainbow_Fade_1/index.md)
