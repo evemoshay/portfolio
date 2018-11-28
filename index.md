@@ -28,3 +28,5 @@ The _quick_ __brown fox__ jumps over the lazy dog.
 [Rainbow Fade](Rainbow_Fade_1/index.md)
 
 [Save Frame Line Project](Save_Frame_Lines_Project/index.md)
+
+[Stamp Sketch](Stamp_Sketch/index.md)
