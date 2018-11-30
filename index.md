@@ -1,7 +1,7 @@
 # Eve's Portfolio
 
 
-## Testing my projects
+## My projects
 
 [Bouncing Squares With Space Bar](Bouncing_Squares_with_Space_Bar/index.md)
 
