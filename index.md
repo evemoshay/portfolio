@@ -16,3 +16,5 @@
 [Save Frame Line Project](Save_Frame_Lines_Project/index.md)
 
 [Stamp Sketch](Stamp_Sketch/index.md)
+
+![Rainbow Fade](/images/fade-0022.tif)
