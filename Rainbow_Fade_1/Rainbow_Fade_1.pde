@@ -36,6 +36,6 @@ void draw(){
 }
 
 void keyPressed(){
- if (keyCode == 'a'){
-   saveFrame("line-####.tif");}
+ if (key == 'a'){
+   saveFrame("fade-####.tif");}
 }
