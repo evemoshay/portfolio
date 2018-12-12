@@ -17,4 +17,4 @@
 
 [Stamp Sketch](Stamp_Sketch/index.md)
 
-![Rainbow Fade](/images/fade-0022.tif)
+![Rainbow Fade](fade-0022.tif/index.md)
